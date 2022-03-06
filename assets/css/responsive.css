@@ -1,0 +1,67 @@
+@media(max-width:576px){
+     /* Navbar Part Start  */
+     .navbar-part .container{
+        width: 100% !important;
+    } 
+    .navbar-brand img{
+        width: 180px !important;
+    }  
+     /* Navbar Part End  */
+     /* Background Part Start */
+     .bg-part .container{
+         overflow: hidden !important;
+     }
+     .bg-content h5 {
+        font-size: 32px !important;
+      }
+      .bg-content p {
+        font-size: 17px !important;
+      }
+     /* Background Part End */
+     /* Service Part Start */
+     .service-part .container {
+        width: 100% !important;
+      }
+     /* Service Part End */
+     /* Crek Part Start */
+     .ask-con {
+        padding-top: 150px !important;
+        padding-bottom: 100px !important;
+      }
+     /* Crek Part End */
+     /* Work Part Start */
+     .work-part .container {
+        width: 100% !important;
+      }
+      .work-header h5 {
+        font-size: 45px !important;
+      }
+      .work-header p {
+        font-size: 21px !important;
+      }
+     /* Work Part End */
+     /* Team Part Start */
+     .team-part .container {
+        width: 100% !important;
+      }
+     /* Team Part End */
+     /* Google Part Start */
+     .google-map-part{
+         display: none !important;
+     }
+     /* Google Part Start */
+     /* Footer Part Start */
+     .footer-part .container {
+        width: 100% !important;
+      }
+     /* Footer Part End */
+}
+@media(max-width:768px){
+
+}
+@media(max-width:992px){
+
+}
+@media(max-width:992px){
+
+}
